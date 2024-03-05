@@ -11,4 +11,6 @@ Results demonstrate high accuracy, sensitivity, and specificity in disease ident
 - Tensorflow
 - Jupyter
 ## CNN Model
+![Screenshot (2)](https://github.com/gangakona/Leaf-Disease-Detection/assets/110378442/8c921d98-8fba-4b0a-9022-6c17b2de6d6f)
+
 
