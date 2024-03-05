@@ -13,5 +13,7 @@ Results demonstrate high accuracy, sensitivity, and specificity in disease ident
 ## CNN Model
 ![Screenshot (2)](https://github.com/gangakona/Leaf-Disease-Detection/assets/110378442/8c921d98-8fba-4b0a-9022-6c17b2de6d6f)
 ## Acurracy and Loss Function
+![Screenshot (24)](https://github.com/gangakona/Leaf-Disease-Detection/assets/110378442/320ff393-7588-4c56-842e-fd90501ba7c0)
+
 
 
